@@ -1,0 +1,10 @@
+*.DS_Store
+*.classpath
+*.project
+*.metadata
+*.settings
+Gjiriti-Richardson-in.zip
+Gjiriti-Richardson-in/bin/
+instructions.txt
+lib/
+report_rabbits*
